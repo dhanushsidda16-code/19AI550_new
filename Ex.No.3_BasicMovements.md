@@ -57,11 +57,9 @@ public class TransformOperations : MonoBehaviour
 }
 ```
 ### Output:
+<img width="1920" height="1200" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/678cd477-73ce-4b62-a436-094fb70c73bd" />
 
 <img width="1920" height="1200" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/1aef2823-8a90-4c55-844b-f7a89118aee6" />
-
-![Uploading Screenshot (147).png…]()
-
 
 
 ### Result:
