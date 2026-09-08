@@ -32,9 +32,9 @@ Step 10: Provide a Restart button to reload the current scene.
 
 ```  
 ### Program:
-```
-PlayerController.cs
 
+## PlayerController.cs
+```
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -64,8 +64,9 @@ public class PlayerController : MonoBehaviour
             );
     }
 }
-Coin.cs
-
+```
+## Coin.cs
+```
 using UnityEngine;
 
 public class Coin : MonoBehaviour
@@ -82,8 +83,9 @@ public class Coin : MonoBehaviour
         }
     }
 }
-Enemy.cs
-
+```
+## Enemy.cs
+```
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
@@ -124,8 +126,9 @@ public class Enemy : MonoBehaviour
         }
     }
 }
-GameBootstrap.cs
-
+```
+## GameBootstrap.cs
+```
 using UnityEngine;
 
 public static class GameBootstrap
@@ -308,8 +311,3 @@ public static class GameBootstrap
 
 ### RESULT:
 Thus the game was developed using Unity and adopted Rule-Based / Reactive AI technology.
-
-
-
-### Result:
-Thus the game was developed using Unity and adopted _-----------AI technology.
